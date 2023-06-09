@@ -1,6 +1,6 @@
 It's and Android App with User and Admin Module.
 
-* Admin Module :
+Admin Module :
 * Admin can perform CRUD operation on Users and can change route information (Firebase db and Storage)
 
 User Module:
