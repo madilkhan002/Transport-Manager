@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076554344769",
+    "project_id": "transport-manager-cc4cc",
+    "storage_bucket": "transport-manager-cc4cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076554344769:android:5708baee9b09d23a2b99c0",
+        "android_client_info": {
+          "package_name": "com.example.transportmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7LskK2T0qRLmPZZVNtJ5OWYNdR-qpSOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
