@@ -1,11 +1,14 @@
-It's and Android App with User and Admin Module
-Admin Module :
-Admin can perform CRUD operation on Users and can change route information (Firebase db and Storage)
+It's and Android App with User and Admin Module.
+
+* Admin Module :
+* Admin can perform CRUD operation on Users and can change route information (Firebase db and Storage)
+
 User Module:
-Eligible user can generate QR Code
-Can Chat with Other Users (Implemented Using Firebase Realtime Database)
-Can see current location and Destination (Google Maps Api)
-Can see all routes information
+* Eligible user can generate QR Code
+* Can Chat with Other Users (Implemented Using Firebase Realtime Database)
+* Can see current location and Destination (Google Maps Api)
+* Can see all routes information
+
 ![image](https://github.com/madilkhan002/Transport-Manager/assets/75298232/734e6b1c-2a34-44a3-b1c2-74b4f9bc6ae4)
 
 dependencies {
