@@ -25,7 +25,7 @@ public class showRoutesMenuActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show_routes_info);
 
-        mStorageRef = FirebaseStorage.getInstance().getReferenceFromUrl("gs://transport-manager-cc4cc.appspot.com");
+        mStorageRef = FirebaseStorage.getInstance().getReferenceFromUrl("");
 
         FragmentManager fragmentManager = getSupportFragmentManager();
         // Create the fragment
